@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447500878835",
+    "project_id": "harrypottercompendium",
+    "storage_bucket": "harrypottercompendium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447500878835:android:f4244d9930e74c8d93c886",
+        "android_client_info": {
+          "package_name": "com.istea.harrypottercompendium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447500878835-68ihnbj9tecgugtq25du1kqh7kldc482.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt7JCARbHEI8ui0yfZO16A13jQP7TRS6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447500878835-68ihnbj9tecgugtq25du1kqh7kldc482.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

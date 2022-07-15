@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/drawable/button.xml" value="0.27" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/drawable/button_ingresar.xml" value="0.212" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/drawable/button_registrarse.xml" value="0.1" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/drawable/input_style.xml" value="0.27" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_dashboard.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_drawe_base.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_drawer_base.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_favorites.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_spells.xml" value="0.28923076923076924" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/activity_wizards.xml" value="0.22" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/card.xml" value="0.33" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/card_spell.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/content_layout.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/layout/main_drawer_header.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/menu/main_drawer_menu.xml" value="0.30085470085470084" />
+        <entry key="..\:/ANALISTA DE SISTEMAS/MOBILE/HarryPotterCompendium/app/src/main/res/xml/network_security_config.xml" value="0.2247863247863248" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
